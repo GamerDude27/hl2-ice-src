@@ -1,3 +1,16 @@
+### Half-Life 2: ICE (mod) Source Code
+HL2: ICE source code for learning and modification.
+***
+### Features
+ICE's source code has a lot of edits to the Half-Life 2 code including new game features such as:
+- Snow footprint decals
+- Addable/ removable helmet(s)
+- Enemies with a variety of different glowing colors
+- And many new weapons
+
+We make our code available here for everyone interested in learning from what we have done over the years.
+We make this available with no intentions of guiding you through it by hand, for that you are on your own.
+***
 ### Source SDK, Copyright(c) Valve Corp.
 THIS DOCUMENT DESCRIBES A CONTRACT BETWEEN YOU AND VALVE 
 CORPORATION ("Valve").  PLEASE READ IT BEFORE DOWNLOADING OR USING 
